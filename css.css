@@ -1,0 +1,49 @@
+ .r{
+     width: 400px;
+     height: 399px;
+     background-color: indigo;
+     display: flex;
+     justify-content: space-evenly;
+    }
+    /* display flex; 
+    /*justfy-content: space-evenly/; */ 
+
+    /* g */
+    .r h2{
+        width: 100px;
+        height: 100px;
+        margin: 5px;
+        background-color: green;
+        
+    }
+    .t{
+        width: 400px;
+        height: 399px;
+        background-color: yellowgreen;
+        display: flex;
+        justify-content: space-evenly;
+        
+
+    }
+    .t h3{
+        width: 100px;
+        height: 100px;
+        background-color: tomato;
+    }
+    .e{
+        display: flex;
+        justify-content: space-evenly;
+        }
+    .css{
+        width: 400px;
+        height: 399px;
+        background-color: blue;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .css h4{
+        width: 100px;
+        height: 100px;
+        background-color: brown;
+    }
+    
